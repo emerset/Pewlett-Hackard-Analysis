@@ -7,6 +7,7 @@ The purpose of this analysis is to review the list of employees due to retire so
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 - 72,458 employees are due to retire soon.
 - Senior Engineers and Senior Staff are the two hardest hitting titles in the retirement list. (see image)
+
 ![silver tsunami by title](./Data/retirement_by_title.png?raw=true)
 - 1,549 employees due to retire were born in 1965. This is one way of determining mentorship eligibility.
 - There are only two managers due to retire.
