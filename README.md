@@ -16,6 +16,7 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 ### - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 33,___ roles will need to be replaced across nine departments as the silver tsunami begins to make an impact. Broken down by department below.
+
 ![silver tsunami by dept](./Data/silver_tsunami_dept.png?raw=true)
 
 ### - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
